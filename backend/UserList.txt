@@ -1,0 +1,490 @@
+1 Nguyễn Quốc Đại 0
+
+2 Vận Tải Minh Tâm -3.25
+
+3 Điều Xe Nội Bài 2.5
+
+4 Duc Quang Duong 0
+
+5 Đức Rio Noibaiairport -1.25
+
+6 Dũng Wiliam -1.5
+
+7 Duy Tấn 4.75
+
+8 Du lịch Khánh Chi Đẹp Trai 0
+
+9 Hoàng Phong Travel -1.25
+
+10 Kevin 0
+
+11 Quang Hiệp -2.75
+
+12 Thu Trần 2.25
+
+13 Trang Dcar Limosine 0
+
+14 Cty Lâm Quyết 3.25
+
+15 Nguyễn Hải 0983648529 0
+
+16 Ae Chạy Xe Sb Và Đường Dài 0.25
+
+17 Ngô Quang Dũng -3.5
+
+18 A Athanh nb 2.5
+
+19 A Đức Airport 0.25
+
+20 A Dũng 1977 0
+
+21 A Hiếu Sân Bay 0
+
+22 A Thành Phú Đô 0.75
+
+23 A Trọng 880 0
+
+24 Anh Khánh -1.25
+
+25 Anh Khoa -1
+
+26 Anh Luận 0
+
+27 Anh Nghị 0
+
+28 Anh Tú 0
+
+29 Anh Tú Airport  3.75
+
+30 Anh Tuấn 0
+
+31 Airport Carvip -0.75
+
+32 Anh Quang -0.5
+
+33 Anh Huy 0
+
+34 Nguyễn Tanh -1.25
+
+35 B M Tùng -1
+
+36 Ba Duy -0.75
+
+37 Bạch Ngọc Đức -1.25
+
+38 Bằng Hip -1.75
+
+39 Bảo Xe Du Lịch -1.25
+
+40 Bảolinhminhchâu -0.25
+
+41 Bee Driver -0.5
+
+42 Biển Xanh -0.25
+
+43 Binh Boong 3
+
+44 Bình Minh Khai Innova 5
+
+45 Bìnhboong 0934351662 2.5
+
+46 Bố Tép 0.75
+
+47 Bờm Đại ca 0.25
+
+48 Bốn Long Biên Innova  -1
+
+49 Tôn Anh Dương -0.5
+
+50 Bossbui 1
+
+51 Bùi Đô -0.5
+
+52 Bùi Duy 1.75
+
+53 Bùi Huy Quang -1
+
+54 Bùi Quang Thành -1
+
+55 Bích 0
+
+56 Bao Chung 0.75
+
+57 Cá Dọn Bể 0.5
+
+58 Cảng Hàng Không Quốc Tế Airport 3.75
+
+59 Cao Thanh Hải 2.25
+
+60 Cao Trần -0.25
+
+61 Champakhao Xathani -1
+
+62 Châu Anh Tourism 2.25
+
+63 Chiến Trần 1.5
+
+64 ChiếnPhúcTân -1.75
+
+65 Cho thuê xe Du Lịch Hà Nội 3.75
+
+66 Cho Thuê Xe Hà Nội -0.75
+
+67 Chuyểntiềnnhanh Hà Nội 0
+
+68 Công Nguyễn 0.75
+
+69 Cops Tran 0
+
+70 Cty Cổ Phần Vận Tải và Dịch Vụ BK -0.5
+
+71 Cty Dịch vụ Vận Tải Linh Anh 0.25
+
+72 Cty tnhh Du Lịch Bảo An 0.25
+
+73 Cty vận tải Vũ Kiên -2.5
+
+74 Xe Sân Bay Bảo Phúc -1
+
+75 Cty Xe Nội Bài Tour 2.75
+
+76 Cu Ly Thành Phố 0
+
+77 Cty Tnhh Mtv Hưng Thịnh Group Travel -0.25
+
+78 Cường 0979882226 -0.75
+
+79 Cường AirPort 1.5
+
+80 Cường Hải Phòng 2.25
+
+81 Cuong Nguyen -0.5
+
+82 Cuong Nguyenduc 0
+
+83 Cường Vios 0.75
+
+84 Cường Vv 3.5
+
+85 Cường Râu Airport 1.25
+
+86 Công Tuyến 0
+
+87 Click Gooo 0
+
+88 Cao Việt Long 0.75
+
+89 Chung -1
+
+90 Công Chung sân bay 0
+
+91 Tiểu Ngưu 0
+
+92 Đăng Khoa 0.75
+
+93 Đặng Sơn -0.5
+
+94 Đặng Văn Hiếu -1.5
+
+95 Đặt Xe Nội Bài Hà Nội -0.5
+
+96 Đh - Vnt Travel 1.25
+
+97 ĐH xe Dịch Vụ Anh Duy 0
+
+98 Đh Xe MP -0.5
+
+99 Đh Bảo Linh Travel -0.25
+
+100 Dịch Vụ Đưa Đón Sân Bay  3
+
+101 DịchVụ Nội Bài -1
+
+102 DịchVụ Nội bài 0
+
+103 Diệp Diệp 0
+
+104 Dd -0.5
+
+105 Điều Hành Vnwondertour  0.5
+
+106 Điều hành PBA Thành Trung 4
+
+107 Điều hành PHCAR airport 3.25
+
+108 Đình Anh -1.5
+
+109 Đinh Bá Hoàn -1
+
+110 Dinh Dac -1.5
+
+111 Đinh Kim Dung 0.25
+
+112 Đỗ Bách 2.5
+
+113 Đỗ Chính 0.25
+
+114 Đỗ Hiếu -0.75
+
+115 Đoàn Huân 3
+
+116 Đoàn Văn Dũng -0.25
+
+117 Doanminh -1.25
+
+118 Độc Bước -0.5
+119 Dovannd -1
+
+120 Đặng Khá 0
+
+121 Du lịch Go Car -1
+
+122 Du Lịch Tứ Phương -1.75
+
+123 Du Tran Khanh 1
+
+124 DKT PLUS 0.25
+
+125 Đức Béo -0.25
+
+126 Duc Bui 0.25
+
+127 Đức Expander 0
+
+128 Đức Phúc Car 0
+
+129 Đức Sơn -0.25
+
+130 Đức Thịnh 0
+
+131 Đức Thuần -0.25
+
+132 Đức Trọng PS 0977702366 0.5
+
+133 Duc Vu 0.75
+
+134 Đức Vũ -0.25
+
+135 Đức. -0.25
+
+136 Đỗ Nhật Đức -0.5
+
+137 Duc Nguyen -0.5
+
+138 Dulichthanglong 2
+
+139 Du Lịch Hoàng Nam -1.25
+
+140 Dũng 079833136 -0.5
+
+141 Private Car Transfer In Hanoi Airport 0
+
+142 Dũng Béo 0
+
+143 Kiến Vàng Travel Car 0
+
+144 Dũng Hân Travel 0
+
+145 Dũng. -0.5
+
+146 Dunghn 0
+
+147 Duong Duc Anh 3.25
+
+148 Dương Mạnh Hà 0
+
+149 Dương Minh Quân -1
+
+150 Dương Nghị 0.5
+
+151 Dương Phú -1.25
+
+152 Duy Béo xe sân bay -1
+
+153 Duy Coffee 0.75
+
+154 Duy Duy -0.25
+
+155 DuyCương -0.5
+
+156 Duytoan 2
+
+157 Duy Tuyên 0.25
+
+158 Duy Thanh -0.5
+
+159 Fuclaze Nguyen 0.25
+
+160 Garung 0.25
+
+161 Gia Airport -0.75
+
+162 Gia Bảo -0.5
+
+163 Gia Bảo -1
+
+164 Gia cát Lượng 2.75
+
+165 Giang Bi -0.5
+
+166 Giangnam -1
+
+167 H M Khoa -0.5
+
+168 H Noibai 1.5
+
+169 Hà Fortuner 1
+
+170 Hà Trang Lomisine  -0.5
+
+171 Ha Tưởng 0.25
+
+172 Posedion 0
+
+173 Hải -1
+
+174 Hải Anh Ml -2.25
+
+175 Hải Kim -1
+
+176 Hải Nguyễn 0
+
+177 Hanhxd1 3.5
+
+178 Hậu Mazda 0.25
+
+179 Hiển Xe Du Lịch Bảo Minh 6
+
+180 Hiếu Béo -0.25
+
+181 Hổ Ăn Thịt Dê 0
+
+182 Hoà Bình Travel 3.75
+
+183 Hòa Tầu -1.25
+
+184 Hoà Tít -1
+
+185 Hoài An -1.25
+
+186 Hoàn. 0.5
+
+187 Hoàng Bình vios -0.25
+
+188 Hoàng Cương -0.5
+
+189 Hoàng Dũng Airport -0.5
+
+190 Hoàng Hải Anh -0.5
+
+191 Hoàng Hiếu Motor 0
+
+192 Hoàng Hùng -1
+
+193 Hoàng Hưởng 0
+
+194 Hoàng Long 16 3.25
+
+195 Hoàng Milano 0.25
+
+196 Hoàng Minh Transport 0.25
+
+197 Hoàng Nam Sb 1.25
+
+198 Hoàng Tâm Limosine -1
+
+199 Hoàng Thắng -1
+
+200 Hoàng Thanh -0.5
+
+201 Hoàng Thu Minh Travel -0.25
+
+202 Hoàng Thuỷ 0
+
+203 Hoàng Trần -1
+
+204 Hoàng Sơn TX 3.75
+
+205 Hoanglong 0
+
+206 Hồng Diệp 0
+
+207 Hồng Hải -0.5
+
+208 Hồng Kim 1.5
+
+209 Hợp Đặng -1
+
+210 Hùng Chuyên Tuyến Nội Bài -1
+
+211 Htdtrands -0.5
+
+212 Htktravelcomvn -0.5
+
+213 Hùng Bạch Mai -0.25
+
+214 Hưng Doãn Thế -1.25
+
+215 Hùng Hải Airport -0.5
+
+216 Hùng Kyn 0.5
+
+217 Hùng Năm Hai -1
+
+218 Hungyn -1.75
+
+219 Hữu Thành -0.5
+
+220 Huy 0979251689 0.25
+
+221 Huy Dzee -1
+
+222 Huy Tây Hồ 0.5
+
+223 Huy võ Limosine -0,5
+
+224 Huyhuy -1.5
+
+225 Huỳnh Văn Dũng 0
+
+226 Hương Minh Anh -0.25
+
+227 Hn Travel -0.5
+
+228 Hái Hoa Tặc 1.75
+
+229 Imperia Airport 0
+
+230 Jin Pc -1
+
+231 Kekhukho -1
+
+232 Khắc Định 11
+
+233 Khangvinh Dh -0.5
+
+234 Khang Vũ Airport 20/02/2025 -0.25
+
+235 Khanh Bỉ 0
+
+236 Khánh Driver -1
+
+237 Khánh Toàn -0,5
+
+238 Khoa Diamond 0.5
+
+239 Kiên Na Vnec -0.75
+
+240 Kien Ngo Van 3
+
+241 Kiên Tp 9.5
+
+242 Kiên Trang Vũ 0.25
+
+243 Kiên Vũ -1
+
+244 Khoa Nguyen 0.5
+ 
+245 Tú Vios 5
+
+246 Vinh Đại Ca Nguyễn Ngọc Vinh 6

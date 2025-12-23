@@ -1,0 +1,90 @@
+// Prisma Schema for Quản Lý Điểm System
+// Run: npx prisma generate
+// Run: npx prisma migrate dev
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+// 1. Bảng người dùng
+model NguoiDung {
+  id        Int      @id @default(autoincrement())
+  ten_zalo  String   @db.VarChar(255)
+  sdt       String?  @db.VarChar(20)
+  so_diem   Decimal  @default(0) @db.Decimal(10, 2) // Số điểm có thể là số thập phân, số âm
+  la_admin  Boolean  @default(false)
+  mat_khau  String   @db.VarChar(255) // Mật khẩu đã được hash
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  // Relations
+  giao_dich_gui   GiaoDich[] @relation("NguoiGui")
+  giao_dich_nhan  GiaoDich[] @relation("NguoiNhan")
+
+  @@index([ten_zalo])
+  @@index([sdt])
+  @@index([la_admin])
+  @@map("nguoi_dung")
+}
+
+// 2. Bảng loại giao dịch
+model LoaiGiaoDich {
+  id                Int        @id @default(autoincrement())
+  ten_loai_giao_dich String     @unique @db.VarChar(100) // 3 loại: San điểm, Giao lịch, Hủy lịch
+  created_at        DateTime   @default(now())
+  updated_at        DateTime   @updatedAt
+
+  // Relations
+  giao_dich GiaoDich[]
+
+  @@map("loai_giao_dich")
+}
+
+// 3. Bảng giao dịch
+model GiaoDich {
+  id                    Int            @id @default(autoincrement())
+  id_nguoi_gui          Int
+  id_nguoi_nhan         Int
+  id_loai_giao_dich     Int
+  so_diem_giao_dich     Decimal        @db.Decimal(10, 2) // Số điểm trong giao dịch
+  id_giao_dich_doi_chung Int?          // ID của giao dịch đối chứng (nếu có)
+  created_at            DateTime       @default(now())
+  updated_at            DateTime       @updatedAt
+
+  // Relations
+  nguoi_gui             NguoiDung      @relation("NguoiGui", fields: [id_nguoi_gui], references: [id], onDelete: Cascade)
+  nguoi_nhan             NguoiDung      @relation("NguoiNhan", fields: [id_nguoi_nhan], references: [id], onDelete: Cascade)
+  loai_giao_dich         LoaiGiaoDich   @relation(fields: [id_loai_giao_dich], references: [id], onDelete: Restrict)
+  giao_dich_doi_chung    GiaoDich?      @relation("GiaoDichDoiChung", fields: [id_giao_dich_doi_chung], references: [id], onDelete: SetNull)
+  giao_dich_doi_chung_ref GiaoDich[]     @relation("GiaoDichDoiChung")
+  logs                   Log[]
+
+  @@index([id_nguoi_gui])
+  @@index([id_nguoi_nhan])
+  @@index([id_loai_giao_dich])
+  @@index([id_giao_dich_doi_chung])
+  @@index([created_at])
+  @@map("giao_dich")
+}
+
+// 4. Bảng log
+model Log {
+  id                        Int       @id @default(autoincrement())
+  id_giao_dich              Int
+  so_diem_con_lai_nguoi_nhan Decimal   @db.Decimal(10, 2) // Số điểm còn lại của người nhận sau giao dịch
+  so_diem_con_lai_nguoi_gui Decimal    @db.Decimal(10, 2) // Số điểm còn lại của người gửi sau giao dịch
+  created_at                DateTime  @default(now())
+
+  // Relations
+  giao_dich GiaoDich @relation(fields: [id_giao_dich], references: [id], onDelete: Cascade)
+
+  @@index([id_giao_dich])
+  @@index([created_at])
+  @@map("logs")
+}
+
